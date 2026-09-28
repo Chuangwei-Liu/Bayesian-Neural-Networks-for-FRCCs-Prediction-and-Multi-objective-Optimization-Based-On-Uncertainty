@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.idea/
+.vscode/
+.venv/
+venv/
+figures/*
+!figures/.gitkeep
+*.log
+optimization_outputs/
+revision_outputs/
+Thumbs.db
+.DS_Store
